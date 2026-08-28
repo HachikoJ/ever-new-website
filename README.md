@@ -4,6 +4,8 @@
 
 [English README](README.en.md) · [GitHub Issues](https://github.com/HachikoJ/ever-new-website/issues)
 
+官网：<https://www.deline.top/>
+
 ![品牌 Logo 动效](public/animations/ever-new-logo-four-round-clockwise.gif)
 
 备用动效：`public/animations/ever-new-logo-single-round-backup.gif`
@@ -66,3 +68,9 @@ npm run start
 ## 许可证
 
 本项目使用 MIT 许可证，见 [LICENSE](LICENSE)。
+
+## 项目趋势
+
+[![Star History](https://api.star-history.com/svg?repos=HachikoJ/ever-new-website&type=Date)](https://star-history.com/#HachikoJ/ever-new-website&Date)
+
+[![Star Trend](https://starchart.cc/HachikoJ/ever-new-website.svg)](https://github.com/HachikoJ/ever-new-website)

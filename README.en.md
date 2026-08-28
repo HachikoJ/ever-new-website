@@ -2,6 +2,8 @@
 
 The public portfolio and product directory for Wilson / HachikoJ. It links to independent product subdomains while keeping the brand site at `www.deline.top`.
 
+Website: https://www.deline.top/
+
 ![EVER NEW logo animation](public/animations/ever-new-logo-four-round-clockwise.gif)
 
 ## Quick start
@@ -39,3 +41,9 @@ The site stores only the language preference in browser `localStorage` and does 
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
+## Project trends
+
+[![Star History](https://api.star-history.com/svg?repos=HachikoJ/ever-new-website&type=Date)](https://star-history.com/#HachikoJ/ever-new-website&Date)
+
+[![Star Trend](https://starchart.cc/HachikoJ/ever-new-website.svg)](https://github.com/HachikoJ/ever-new-website)
