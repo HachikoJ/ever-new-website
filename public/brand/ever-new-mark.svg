@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">物与日新 Ever New</title>
+  <desc id="desc">Four evolving forms circle an open center, representing continuous creation and refinement.</desc>
+  <path fill="#315EFB" d="M35 7c12.1 1.3 20.7 9.9 22 22H43.8A12.3 12.3 0 0 0 35 20.2V7Z"/>
+  <path fill="#FF6B61" d="M57 35c-1.3 12.1-9.9 20.7-22 22V43.8a12.3 12.3 0 0 0 8.8-8.8H57Z"/>
+  <path fill="#28C79A" d="M29 57C16.9 55.7 8.3 47.1 7 35h13.2a12.3 12.3 0 0 0 8.8 8.8V57Z"/>
+  <path fill="#FFD75E" d="M7 29C8.3 16.9 16.9 8.3 29 7v13.2a12.3 12.3 0 0 0-8.8 8.8H7Z"/>
+  <rect width="8" height="8" x="28" y="28" fill="#1A2133" rx="2.4" transform="rotate(45 32 32)"/>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "name": "物与日新 · EVER NEW",
+  "short_name": "EVER NEW",
+  "description": "Wilson / HachikoJ 的独立产品、Agent Skills 与开源工具。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fbff",
+  "theme_color": "#315efb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/brand/ever-new-mark-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/ever-new-mark-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "productivity", "design"]
+}

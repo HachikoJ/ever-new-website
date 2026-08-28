@@ -1,0 +1,3 @@
+# The former in-site reader URL now belongs to the product subdomain.
+/reader https://reader.deline.top/ 308
+/reader/* https://reader.deline.top/:splat 308
