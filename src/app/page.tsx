@@ -4,13 +4,14 @@ import { useEffect, useState } from 'react'
 import ProductPortal from '@/components/ProductPortal'
 import type { Language } from '@/lib/i18n'
 
-const languageKey = 'ever-new-language'
+const languageKey = 'evernews-language'
+const legacyLanguageKey = 'ever-new-language'
 
 export default function PortalPage() {
   const [lang, setLang] = useState<Language>('zh')
 
   useEffect(() => {
-    const saved = window.localStorage.getItem(languageKey)
+    const saved = window.localStorage.getItem(languageKey) ?? window.localStorage.getItem(legacyLanguageKey)
     if (saved === 'zh' || saved === 'en') setLang(saved)
   }, [])
 

@@ -1,14 +1,14 @@
-# 物与日新 · EVER NEW
+# 物与日新 · EverNews
 
 费曼读书助手作者 Wilson / HachikoJ 的独立官网与产品目录，展示正在制作的产品、Agent Skills、开源工具与联系方式。
 
-[English README](README.en.md) · [GitHub Issues](https://github.com/HachikoJ/ever-new-website/issues)
+[English README](README.en.md) · [GitHub Issues](https://github.com/HachikoJ/evernews-website/issues)
 
 官网：<https://www.deline.top/>
 
-![品牌 Logo 动效](public/animations/ever-new-logo-four-round-clockwise.gif)
+![品牌 Logo 动效](public/animations/evernews-logo-four-round-clockwise.gif)
 
-备用动效：`public/animations/ever-new-logo-single-round-backup.gif`
+备用动效：`public/animations/evernews-logo-single-round-backup.gif`
 
 ## 快速开始
 
@@ -63,7 +63,7 @@ npm run start
 
 ## 隐私与反馈
 
-语言偏好仅保存在当前浏览器的 `localStorage`，官网不收集表单数据。问题反馈请提交到 [GitHub Issues](https://github.com/HachikoJ/ever-new-website/issues) 或使用官网展示的邮箱。
+语言偏好仅保存在当前浏览器的 `localStorage`，官网不收集表单数据。问题反馈请提交到 [GitHub Issues](https://github.com/HachikoJ/evernews-website/issues) 或使用官网展示的邮箱。
 
 ## 许可证
 
@@ -71,6 +71,6 @@ npm run start
 
 ## 项目趋势
 
-[![Star History](https://api.star-history.com/svg?repos=HachikoJ/ever-new-website&type=Date)](https://star-history.com/#HachikoJ/ever-new-website&Date)
+[![Star History](https://api.star-history.com/svg?repos=HachikoJ/evernews-website&type=Date)](https://star-history.com/#HachikoJ/evernews-website&Date)
 
-[![Star Trend](https://starchart.cc/HachikoJ/ever-new-website.svg)](https://github.com/HachikoJ/ever-new-website)
+[![Star Trend](https://starchart.cc/HachikoJ/evernews-website.svg)](https://github.com/HachikoJ/evernews-website)

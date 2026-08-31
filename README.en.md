@@ -1,10 +1,10 @@
-# EVER NEW Official Website
+# EverNews Official Website
 
 The public portfolio and product directory for Wilson / HachikoJ. It links to independent product subdomains while keeping the brand site at `www.deline.top`.
 
 Website: https://www.deline.top/
 
-![EVER NEW logo animation](public/animations/ever-new-logo-four-round-clockwise.gif)
+![EverNews logo animation](public/animations/evernews-logo-four-round-clockwise.gif)
 
 ## Quick start
 
@@ -36,7 +36,7 @@ The site is a Next.js static export. See [`deploy.sh`](deploy.sh) and [`www.deli
 
 ## Privacy and feedback
 
-The site stores only the language preference in browser `localStorage` and does not collect form submissions. Report issues through [GitHub Issues](https://github.com/HachikoJ/ever-new-website/issues).
+The site stores only the language preference in browser `localStorage` and does not collect form submissions. Report issues through [GitHub Issues](https://github.com/HachikoJ/evernews-website/issues).
 
 ## License
 
@@ -44,6 +44,6 @@ MIT. See [`LICENSE`](LICENSE).
 
 ## Project trends
 
-[![Star History](https://api.star-history.com/svg?repos=HachikoJ/ever-new-website&type=Date)](https://star-history.com/#HachikoJ/ever-new-website&Date)
+[![Star History](https://api.star-history.com/svg?repos=HachikoJ/evernews-website&type=Date)](https://star-history.com/#HachikoJ/evernews-website&Date)
 
-[![Star Trend](https://starchart.cc/HachikoJ/ever-new-website.svg)](https://github.com/HachikoJ/ever-new-website)
+[![Star Trend](https://starchart.cc/HachikoJ/evernews-website.svg)](https://github.com/HachikoJ/evernews-website)
